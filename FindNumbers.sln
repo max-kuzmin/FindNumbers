@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindNumbers", "FindNumbers\FindNumbers.csproj", "{2530DE1B-2ED4-4604-B0DE-5515F926A755}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindNumbersCPP", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{917A1396-CD2D-4690-809E-4DEA4181812C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindNumbersCPP", "FindNumbersCPP\FindNumbersCPP.vcxproj", "{917A1396-CD2D-4690-809E-4DEA4181812C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
